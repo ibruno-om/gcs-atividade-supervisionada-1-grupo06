@@ -2,3 +2,8 @@ Nome artefato: Pablo.txt
 Nome do(a) autor(a): Pablo Henrique
 Data de criação: 13/04/2017
 Hora de criação: 04:58:15
+
+Nome artefato: Pablo.txt
+Nome do(a) autor(a) da alteração: Murilo Eduardo
+Data da alteração: 13/04/2017
+Hora da alteração: 11:37:10
