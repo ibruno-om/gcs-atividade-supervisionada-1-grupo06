@@ -2,3 +2,8 @@ Nome artefato: Murilo.txt
 Nome do(a) autor(a): Murilo Eduardo
 Data de criação: 13/04/2017
 Hora de criação: 09:59:06
+
+Nome artefato: Murilo.txt
+Nome do(a) autor(a) da alteração: Pablo Henrique Reis Carvalho
+Data da alteração: 13/04/2017
+Hora da alteração: 11:15:00
