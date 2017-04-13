@@ -6,3 +6,5 @@ Hora de criação: 01:25:33
 Novo termo de contrato sendo emitido;
 
 Adição de cronograma
+
+Fechamento do projeto
