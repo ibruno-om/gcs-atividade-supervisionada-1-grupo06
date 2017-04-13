@@ -7,3 +7,8 @@ Nome artefato: Pablo.txt
 Nome do(a) autor(a) da alteração: Murilo Eduardo
 Data da alteração: 13/04/2017
 Hora da alteração: 11:37:10
+
+Nome artefato: Pablo.txt
+Nome do(a) autor(a) da altera‹o: Iago Bruno Oliveira
+Data da alteração: 13/04/2017
+Hora da alteração: 12:53:10
